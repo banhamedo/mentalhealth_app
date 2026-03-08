@@ -1,0 +1,5 @@
+{
+  "name": "MentalHealthGPT",
+  "description": "An empathetic AI mental health companion featuring interactive chat, user and admin dashboards, and secure conversation history.",
+  "requestFramePermissions": ["microphone"]
+}
